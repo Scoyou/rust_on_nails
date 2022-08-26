@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "parcel watch ./asset-pipeline/index.ts",
+    "release": "parcel build ./asset-pipeline/index.ts"
+  },
+  "dependencies": {
+    "parcel": "^2.7.0"
+  }
+}

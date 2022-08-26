@@ -1,0 +1,7 @@
+app/target
+.devcontainer/.env
+.parcel-cache
+/app/dist
+node_modules
+
+target
